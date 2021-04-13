@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         // edit from 18234883208 local
         
         // edit from web
+        
+        // edit from web after VCS-fetch
     }
 }
