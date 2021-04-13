@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         // edit from web after VCS-Fetch
 
         // edit from local after VCS-Pull
+        
+        // ok
     }
 }
